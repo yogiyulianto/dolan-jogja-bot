@@ -1,0 +1,162 @@
+{
+   "knowledge_base" :[
+       {
+            "kategori" : "kuliner",
+            "kata_kunci": "makanan khas",
+            "jawaban": "makanan khas jogja adalah gudeg, coklat monggo, bakmi, belalang, sate klathak, bakpia"
+       },
+       {
+            "kategori" : "kuliner",
+            "kata_kunci": "gudeg rekomendasi",
+            "jawaban": "Gudeg Yu Djum ,Gudeg Mercon Bu Narti, Gudeg Pawon, Gudeg Bromo."
+       },
+       {
+            "kategori" : "kuliner",
+            "kata_kunci": "tempat makan",
+            "jawaban": "kamu bisa makan atau nongkrong di angkringan, oseng - oseng mercon"
+       },
+       {
+            "kategori" : "kuliner",
+            "kata_kunci": "bakmi, mie",
+            "jawaban": "Bakmi Jowo Mbah Gito dan Bakmi Jowo Mbah Mo."
+       },
+       {
+            "kategori" : "kuliner",
+            "kata_kunci": "angkringan",
+            "jawaban": "Angkringan Lik Man, Angkringan Kopi Joss, House of Raminten, Pendopo Lawas"
+       },
+       {
+            "kategori" : "kuliner",
+            "kata_kunci": "sarapan, soto",
+            "jawaban": "Soto Kadipiro, Soto Pak Dalbe atau Soto Batok Mbah Karto, tempe jadah tarik"
+       },
+       {
+            "kategori" : "kuliner",
+            "kata_kunci": "sate, klathak",
+            "jawaban": "Sate Klathak Pak Pong, Sate Klathak Pak Bari atau Sate Klathak Pak Jede."
+       },
+       {
+            "kategori" : "kuliner",
+            "kata_kunci": "bakso",
+            "jawaban": "Bakso Klenger Ratusari, Bakso Mblenger"
+       },
+       {
+            "kategori" : "kuliner",
+            "kata_kunci": "kopi, klotok, joss",
+            "jawaban": "silol, filosofi kopi, kopi merapi, angkringan kopi joss, kopi klotok angkringan"
+       },
+       {
+            "kategori" : "kuliner",
+            "kata_kunci": "top kuliner",
+            "jawaban": "filosofi kopi, ayam goreng bu hartin, bakmi jowo mbah gito, gudeg yu djum, mangut lele mbah marto, warung ss (spesial sambel), gudeg pawon, mie ayam tumini, soto batok mbah katro, sate klatak"
+       },
+       {
+            "kategori" : "oleh-oleh",
+            "kata_kunci": "oleh-oleh",
+            "jawaban": "Bakpia Kencana, Bakpia Pathuk,yangko, walang goreng,bakpia 45, bakpia kurnia sari, bakpiaku, bakpia tugu"
+       },
+       {
+            "kategori" : "oleh-oleh",
+            "kata_kunci": "bakpia",
+            "jawaban": "bakpia 45, bakpia kurnia sari, bakpiaku, bakpia tugu,Bakpia Kencana, Bakpia Pathuk"
+       },
+       {
+            "kategori" : "oleh-oleh",
+            "kata_kunci": "oleh-oleh gudeg",
+            "jawaban": "gudeg kering yu djum"
+       },
+       {
+            "kategori" : "oleh-oleh",
+            "kata_kunci": "oleh-oleh batik, daster",
+            "jawaban": "Batik Jogja Beringharjo, Batik Yudhistira, Batik Ngasem Jogja"
+       },
+       {
+            "kategori" : "penginapan",
+            "kata_kunci": "budget hotel, hotel murah",
+            "jawaban": "Biaya  cuma 80K, yuk segera "
+       },
+       {
+            "kategori" : "penginapan",
+            "kata_kunci": "hotel",
+            "jawaban": "Biaya pendaftaran cuma 80K, yuk segera "
+       },
+       {
+            "kategori" : "penginapan",
+            "kata_kunci": "hotel bintang",
+            "jawaban": "Biaya pendaftaran cuma 100K, yuk segera"
+       },
+       {
+            "kategori" : "penginapan",
+            "kata_kunci": "homestay",
+            "jawaban": "home stay murah terletak di yogyakarta"
+       },
+       {
+            "kategori" : "penginapan",
+            "kata_kunci": "kos",
+            "jawaban": "kost murah di kaliurang"
+       },
+       {
+            "kategori" : "penginapan",
+            "kata_kunci": "kapsul ",
+            "jawaban": "kapsul murah banyak dijogja jika anda backpacker"
+       },
+       {
+            "kategori" : "wisata",
+            "kata_kunci": "belanja, supermarket",
+            "jawaban": "mirota, pamela, pasar beringharjo"
+       },
+       {
+            "kategori" : "wisata",
+            "kata_kunci": "renang, kolam renang",
+            "jawaban": "Jogja Bay Adventure Pirate Waterpark, Grand Puri Waterpark, Galaxy Waterpark"
+       },
+       {
+            "kategori" : "wisata",
+            "kata_kunci": "make up",
+            "jawaban": "mutiara"
+       },
+       {
+            "kategori" : "wisata",
+            "kata_kunci": "spa, facial, kecantikan",
+            "jawaban": "larissa"
+       },
+       {
+            "kategori" : "wisata",
+            "kata_kunci": "wisata outdoor",
+            "jawaban": "The Lost World Castle, merapi park, stonehenge merapi park, tebing breksi,spot riyadi, taman pelangi, sindu kusuma edu park, Goa Jomblang, Kebun Buah Mangunan, Tebing Breksi, Kalibiru, Hutan Pinus Pengger,Jalan Malioboro, alun-alun utara dan kidul (selatan), Candi Borobudur, Candi Prambanan, Pasar Beringharjo, Benteng Vredeburg Yogyakarta, Keraton Yogyakarta, Taman Sari Jogja"       },
+       {
+            "kategori" : "wisata",
+            "kata_kunci": "wisata edukasi",
+            "jawaban": "taman pintar, taman budaya, Sindu Kusuma Edupark"
+       },
+       {
+            "kategori" : "wisata",
+            "kata_kunci": "wisata edukasi",
+            "jawaban": "taman pintar, taman budaya, Sindu Kusuma Edupark"
+       },
+       {
+            "kategori" : "wisata",
+            "kata_kunci": "museum, musium",
+            "jawaban": "Museum Gunung Merapi, Museum Ullen Sentalu"
+       },
+       {
+            "kategori" : "wisata",
+            "kata_kunci": "pantai",
+            "jawaban": "parangtritis, Pantai Indrayanti, Pantai Nglambor, Pantai Pok Tunggal, Pantai Watu Lumbung, Pantai Goa Cemara, Pantai Glagah, Pantai Nguluran, Pantai Timang"
+       },
+       {
+            "kategori" : "wisata",
+            "kata_kunci": "goa",
+            "jawaban": "Goa Jomblang, Goa Pindul"
+       },
+       {
+            "kategori" : "wisata",
+            "kata_kunci": "candi",
+            "jawaban": "Candi Borobudur, Candi Prambanan, Candi Ratu Boko, Candi Sewu"
+       }
+       
+
+   ],
+   "status" : "200",
+   "message": "sukses"
+}
